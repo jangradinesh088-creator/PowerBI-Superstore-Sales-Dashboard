@@ -49,8 +49,8 @@ This project is an interactive Power BI dashboard built using the Sample Superst
 | File | Description |
 |------|-------------|
 | Superstore_Sales_Dashboard.pbix | Power BI Dashboard File |
-| Dashboard.png | Dashboard Screenshot |
-| README.md | Project Documentation |
+| Dashboard.png |
+| README.md |
 
 ---
 
